@@ -1,6 +1,6 @@
 # Hi 👋, I'm All Mostakim
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E831E&width=435&lines=A+Passionate+Web+Developer;React+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E831E&width=435&lines=Web+Developer;React+Developer)](https://git.io/typing-svg)
 - 🔭 I'm currently working on **Web Developer **
 
 - 🌱 I'm currently learning **TypeScript, Node.js**
