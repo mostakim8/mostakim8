@@ -1,10 +1,12 @@
 # Hi 👋, I'm All Mostakim
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E831E&width=435&lines=Web+Developer;React+Developer)](https://git.io/typing-svg)
+
 # 💫 About Me:
 🔭 I'm currently working on **Web Developer **<br><br>🌱 I'm currently learning TypeScript, Node.js<br><br>💬 Ask me about React, Next.js and Web development<br><br>📫 How to reach me allmostakim13@gmail.com<br><br>👨‍💻 All of my projects are available at https://my-portfolio-git-main-mostakim8s-projects.vercel.app
 
-Contact With Me:
+
+Contact With Me: <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/all-mostakim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:allmostakim13@gmail.com) 
 
 
