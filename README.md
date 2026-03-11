@@ -4,13 +4,11 @@
 # 💫 About Me:
 🔭 I'm currently working on **Web Developer **<br><br>🌱 I'm currently learning TypeScript, Node.js<br><br>💬 Ask me about React, Next.js and Web development<br><br>📫 How to reach me allmostakim13@gmail.com<br><br>👨‍💻 All of my projects are available at https://my-portfolio-git-main-mostakim8s-projects.vercel.app
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/https://github.com/mostakim8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/mostakim8" height="30" width="40" /></a>
+Contact With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/all-mostakim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:allmostakim13@gmail.com) 
 
 
-</p>
+
 
 
 
