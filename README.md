@@ -5,12 +5,10 @@
 # 💫 About Me:
 🔭 I'm currently working on **Web Developer **<br><br>🌱 I'm currently learning TypeScript, Node.js<br><br>💬 Ask me about React, Next.js and Web development<br><br>📫 How to reach me allmostakim13@gmail.com<br><br>👨‍💻 All of my projects are available at https://my-portfolio-git-main-mostakim8s-projects.vercel.app
 
-<br>
 # Contact With Me <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/all-mostakim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:allmostakim13@gmail.com) 
 
 
-<br>
 # 💻 Tech Languages and Tools:
 Frontend: <br> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
