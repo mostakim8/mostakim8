@@ -5,7 +5,7 @@
 # 💫 About Me:
 🔭 I'm currently working on **Web Developer **<br><br>🌱 I'm currently learning TypeScript, Node.js<br><br>💬 Ask me about React, Next.js and Web development<br><br>📫 How to reach me allmostakim13@gmail.com<br><br>👨‍💻 All of my projects are available at https://my-portfolio-git-main-mostakim8s-projects.vercel.app
 
-# Contact With Me <br>
+#📞 Contact: <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/all-mostakim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:allmostakim13@gmail.com) 
 
 
@@ -25,7 +25,7 @@ Others: <br>
 Design: <br> ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) 
 
 # 📊 GitHub Stats:
-(https://github-readme-stats.vercel.app/api?username=mostakim8&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/><br>
+![](https://github-readme-stats.vercel.app/api?username=mostakim8&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/><br>
 ![](https://nirzak-streak-stats.vercel.app/?user=mostakim8&theme=dark&hide_border=false)<br/><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mostakim8&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
