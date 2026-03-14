@@ -25,9 +25,14 @@ Others: <br>
 Design: <br> ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mostakim8&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/><br>
-![](https://nirzak-streak-stats.vercel.app/?user=mostakim8&theme=dark&hide_border=false)<br/><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mostakim8&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- GitHub Stats -->
+![Mostakim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostakim8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=mostakim8&theme=tokyonight&hide_border=true)
+
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostakim8&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mostakim8&theme=radical&no-frame=false&no-bg=true&margin-w=4)
