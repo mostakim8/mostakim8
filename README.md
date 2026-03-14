@@ -26,7 +26,7 @@ Design: <br> ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for
 
 # 📊 GitHub Stats:
 <!-- GitHub Stats -->
-![Mostakim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostakim8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mostakim8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 <!-- GitHub Streak -->
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=mostakim8&theme=tokyonight&hide_border=true)
