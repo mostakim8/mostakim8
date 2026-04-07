@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm All Mostakim
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E831E&width=435&lines=Web+Developer;React+Developer;Mern+Stack+Developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E831E&width=435&lines=Web+Developer;React+Developer;Frontend+Developer;Mern+Stack+Developer+)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🔭 I'm currently working on **Web Developer **<br><br>🌱 I'm currently learning TypeScript, Node.js<br><br>💬 Ask me about React, Next.js and Web development<br><br>📫 How to reach me allmostakim13@gmail.com<br><br>👨‍💻 All of my projects are available at https://allmostakim.vercel.app/
@@ -29,19 +29,13 @@ Others: <br>
 Design: <br> ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) 
 
 # 📊 GitHub Stats:
-<!-- GitHub Stats -->
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mostakim8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-<!-- GitHub Streak -->
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=mostakim8&theme=tokyonight&hide_border=true)
 
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostakim8&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mostakim8&theme=tokyonight&hide_border=true)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mostakim8&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mostakim8&layout=compact&theme=tokyonight&hide_border=true" width="380" />
 
----
-[![](https://visitcount.itsvg.in/api?id=mostakim8&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 
