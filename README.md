@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="All Mostakim (3).jpg" alt="Mostakim's Banner" width="100%">
+</p>
+
 # Hi 👋, I'm All Mostakim
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E831E&width=435&lines=Web+Developer;React+Developer;Mern+Stack+Developer+)](https://git.io/typing-svg)
