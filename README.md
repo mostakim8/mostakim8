@@ -2,40 +2,65 @@
   <img src="All Mostakim (3).jpg" alt="Mostakim's Banner" width="100%">
 </p>
 
-# Hi 👋, I'm All Mostakim
+# 🚀 All Mostakim | Full-Stack Developer (MERN)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E831E&width=435&lines=Web+Developer;React+Developer;Frontend+Developer;Mern+Stack+Developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E831E&width=435&lines=React+Next.js+Developer;Frontend+Developer;MERN+Stack+Developer;Deep+Thinker+,+Problem+Solver;+)](https://git.io/typing-svg)
 
-# 💫 About Me:
-🔭 I'm currently working on **Web Developer **<br><br>🌱 I'm currently learning TypeScript, Node.js<br><br>💬 Ask me about React, Next.js and Web development<br><br>📫 How to reach me allmostakim13@gmail.com<br><br>👨‍💻 All of my projects are available at https://allmostakim.vercel.app/
+---
 
-# 📞 Contact: <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/all-mostakim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:allmostakim13@gmail.com) 
+### ⚡ Professional Summary
+I am a **Frontend-heavy Full-Stack Developer** and a CSE student at **AIUB**. I focus on building minimalist, high-performance web applications using the MERN stack. I value persistence and clean architecture.
 
+- 🔭 **Current Focus:** Scalable Digital Asset Management & Emergency Service Directories.
+- 🌱 **Learning Path:** Mastering TypeScript, Node.js deep-dive, and AI with Development.
+- 🎯 **Vision:** To become a High-Impact Developer and lead my own IT firm.
 
-# 💻 Tech Languages and Tools:
-Frontend: <br> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+---
 
-Backend: <br> ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+### 🛠️ Technical Skills
 
-Database: <br> ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
+| **Deployment** | ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
+| **Fundamentals**| ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![OOP](https://img.shields.io/badge/-OOP-E34F26?logo=codesignal&logoColor=white) ![Data Structures](https://img.shields.io/badge/-DSA-007ACC?logo=algorithm&logoColor=white) |
 
-Deployment:<br> ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)    ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+---
 
-Others: <br>
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)    ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
+### 📈 Dynamic GitHub Metrics
 
-Design: <br> ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) 
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mostakim8&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostakim8&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+</p>
 
-# 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostakim8&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</p>
 
+---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mostakim8&theme=tokyonight&hide_border=true)
+### 📂 Featured Open Source Projects
+- **[Asset-Verse](https://github.com/mostakim8/asset-verse)** - Digital Asset Management with balance/coin system.
+- **[Joruri Seba](https://github.com/mostakim8/joruri-seba)** - Local Emergency Helpline directory.
+- **[Hero.io](https://github.com/mostakim8/hero-io)** - Minimalist showcase platform with dynamic routing.
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mostakim8&layout=compact&theme=tokyonight&hide_border=true" width="380" />
+---
 
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/all-mostakim"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:allmostakim13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://allmostakim.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2E831E?logo=vercel&logoColor=white" /></a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mostakim8&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Visitor Count" />
+</p>
 
-
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mostakim8&theme=radical&no-frame=false&margin-w=4" alt="mostakim8 GitHub Trophies" />
+</p>
