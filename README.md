@@ -44,8 +44,8 @@ I am a **Frontend-heavy Full-Stack Developer** and a CSE student at **AIUB**. I 
 ---
 
 ### 📂 Featured Open Source Projects
-- **[Asset-Verse](https://github.com/mostakim8/asset-verse)** - Digital Asset Management with balance/coin system.
-- **[Joruri Seba](https://github.com/mostakim8/joruri-seba)** - Local Emergency Helpline directory.
+- **[Asset-Verse]([https://github.com/mostakim8/asset-verse](https://inspiring-medovik-fc9331.netlify.app)** - Digital Asset Management with balance/coin system.
+- **[Joruri Seba]([https://github.com/mostakim8/joruri-seba](https://mostakim8.github.io/Joruri_Seba_Emergency_Service_MS05A05_PH/)** - Local Emergency Helpline directory.
 - **[Hero.io](https://github.com/mostakim8/hero-io)** - Minimalist showcase platform with dynamic routing.
 
 ---
