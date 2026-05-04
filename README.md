@@ -9,7 +9,7 @@
 ---
 
 ### ⚡ Professional Summary
-I am a **Frontend-heavy Full-Stack Developer** and a CSE student at **AIUB**. I focus on building minimalist, high-performance web applications using the MERN stack. I value persistence and clean architecture.
+**Full-Stack Developer** and a CSE student at **AIUB**. I focus on building minimalist, high-performance web applications using the MERN stack. I value persistence and clean architecture.
 
 - 🔭 **Current Focus:** Scalable Digital Asset Management & Emergency Service Directories.
 - 🌱 **Learning Path:** Mastering TypeScript, Node.js deep-dive, and AI with Development.
