@@ -2,14 +2,14 @@
   <img src="All Mostakim (3).jpg" alt="Mostakim's Banner" width="100%">
 </p>
 
-# 🚀 All Mostakim | Full-Stack Developer (MERN)
+# 🚀 All Mostakim | Frontend-Focused Full-Stack Developer 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E831E&width=435&lines=React+Next.js+Developer;Frontend+Developer;MERN+Stack+Developer;Deep+Thinker+,+Problem+Solver;+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E831E&width=435&lines=Frontend-Focused+Full-Stack+Developer;React+%26+Next.js+Specialist;MERN+Stack+Developer;Problem+Solver+%26+Clean+Coder)](https://git.io/typing-svg)
 
 ---
 
 ### ⚡ Professional Summary
-**Full-Stack Developer** and a CSE student at **AIUB**. I focus on building minimalist, high-performance web applications using the MERN stack. I value persistence and clean architecture.
+**Frontend-Focused Full-Stack Developer** and a CSE student at **AIUB**. I build modern, responsive, and accessible web applications using React, Next.js, and TypeScript, with hands-on experience developing full-stack applications using the MERN stack. I value persistence and clean architecture.
 
 - 🔭 **Current Focus:** Scalable Digital Asset Management & Emergency Service Directories.
 - 🌱 **Learning Path:** Mastering TypeScript, Node.js deep-dive, and AI with Development.
