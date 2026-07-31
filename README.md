@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="All Mostakim (3).jpg" alt="Mostakim's Banner" width="100%">
+  <img src="All Mostakim.png" alt="Mostakim's Banner" width="100%">
 </p>
 
 # 🚀 All Mostakim | Frontend-Focused Full-Stack Developer 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E831E&width=435&lines=Frontend-Focused+Full-Stack+Developer;React+%26+Next.js+Specialist;MERN+Stack+Developer;Problem+Solver+%26+Clean+Coder)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E831E&width=435&lines=Frontend-Focused+Full-Stack+Developer;React+%26+Next.js+Specialist;MERN+Stack+Developer;Problem+Solver;Smart+Workflows+with+AI+Tools.)](https://git.io/typing-svg)
 
 ---
 
 ### ⚡ Professional Summary
 **Frontend-Focused Full-Stack Developer** and a CSE student at **AIUB**. I build modern, responsive, and accessible web applications using React, Next.js, and TypeScript, with hands-on experience developing full-stack applications using the MERN stack. I value persistence and clean architecture.
 
-- 🔭 **Current Focus:** Scalable Digital Asset Management & Emergency Service Directories.
-- 🌱 **Learning Path:** Mastering TypeScript, Node.js deep-dive, and AI with Development.
-- 🎯 **Vision:** To become a High-Impact Developer and lead my own IT firm.
+- 🔭 **Current Focus:** Building scalable Digital Asset Management Platforms& Emergency Service Directories.
+- 🌱 **Learning Path:** TypeScript, Node.js deep-dive and AI-assisted development workflows.
+- 🎯 **Vision:** To become a High-Impact Developer and lead my own tech firm.
 
 ---
 
